@@ -65,5 +65,6 @@ El modelo desarrollado permite predecir de manera efectiva la cantidad de divisa
 
 El análisis de intervalos de confianza garantiza que las predicciones reflejen la incertidumbre inherente a las operaciones financieras de la casa de cambio.
 
-## Contacto
+## 📩 Contact
+Cualquier pregunta o feedback es bien recibido. Me puedes contactar por [Linkeind](www.linkedin.com/in/ronaldespinoza).
 
