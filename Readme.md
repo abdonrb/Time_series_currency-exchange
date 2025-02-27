@@ -55,10 +55,10 @@ poetry install
 El modelo desarrollado permite predecir de manera efectiva la cantidad de divisas necesarias, optimizando la liquidez y reduciendo costos.
 
 ## 📊 Visualización de resultados
-[Gráficos de predicciones](img/predicciones_intervalos.png)
+![Gráficos de predicciones](img/predicciones_intervalos.png)
 
 ## 📈 Visualización de errores
-![Gráficos de errores](img/predicciones_intervalos.png)
+![Gráficos de errores](img/residuos.png)
 
 
 **Obteniendo un MAE igual 8340.746442 y un coverage del 92.36%**
