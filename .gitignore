@@ -1,0 +1,6 @@
+*.csv
+*.xlsx
+*eda.py
+*preprocessing.py
+*poetry.lock
+*.venv
